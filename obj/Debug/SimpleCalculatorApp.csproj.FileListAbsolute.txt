@@ -1,0 +1,10 @@
+C:\Users\pascu\source\repos\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+C:\Users\pascu\source\repos\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+C:\Users\pascu\source\repos\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Form1.resources
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.cache
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+C:\Users\pascu\source\repos\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
